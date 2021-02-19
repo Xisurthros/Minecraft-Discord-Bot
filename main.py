@@ -55,4 +55,4 @@ for filename in os.listdir('./cogs'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
 # This is the client TOKEN
-client.run('Nzk4NjMyODI0NzA1MjUzNDA2.X_32xw.k6ELDhACL2PMDWF_k6DQBzUKDJc')
+client.run(# 'TOKEN')
