@@ -6,7 +6,7 @@ import time
 
 
 class Controls(commands.Cog):
-    author = 198667876138221568
+    author = # User ID
 
     def __init__(self, bot):
         self.bot = bot
