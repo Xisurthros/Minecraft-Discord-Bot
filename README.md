@@ -1,5 +1,2 @@
 # Minecraft-Discord-Bot
-Discord.py used to control a minecraft character
-
-I will make custom discordbots.
-https://www.fiverr.com/jacohobb
+Users in discord can send this bot commands and controll a minecraft character.
